@@ -35,6 +35,16 @@ Update database credentials in the config file.
 
 Run the project using a local server (e.g., XAMPP).
 
+## Preview
+
+![Menu Table](../assets/img/preview/Screenshot%202025-05-09%20151129.png)
+![Order Taking](../assets/img/preview/Screenshot%202025-05-09%20152346.png)
+![Employees Table](../assets/img/preview/Screenshot%202025-05-09%20152800.png)
+
+-
+-
+-
+-
 
 # [Start Bootstrap - SB Admin 2](https://startbootstrap.com/theme/sb-admin-2/)
 

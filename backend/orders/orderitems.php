@@ -37,16 +37,13 @@ if (isset($_GET['task']) && $_GET['task'] === 'logout') {
         <!-- End of Topbar -->
 
         <!-- Begin Page Content -->
-        <div class="container-fluid">
+        
 
             <!-- Page Heading -->
-            <div class="d-sm-flex align-items-center justify-content-between mb-4">
-                <h1 class="h3 mb-0 text-gray-800">Cards</h1>
+            <div class="px-4 d-sm-flex align-items-center justify-content-between mb-4">
+                <h1 class="h3 mb-0 text-gray-800">Menu</h1>
             </div>
-
-
-
-                <!-- Earnings (Monthly) Card Example -->
+            <div class="row px-4">
                 <?php foreach($items as $item){ ?>
                 <div class="col-xl-3 col-md-6 mb-4">
                     <div class="card border-left-primary shadow h-100 py-2">
